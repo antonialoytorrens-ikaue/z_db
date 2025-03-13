@@ -1,0 +1,17 @@
+Pants
+Hoodie
+Polo
+Shorts
+Undershirt
+Top
+Dress
+Blouse
+Blazer
+Hat
+T-Shirt
+Shoes
+Shirt
+Outwear
+Body
+Longsleeve
+Skirt

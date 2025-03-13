@@ -1,0 +1,6 @@
+temporada
+tendencia
+invierno
+primavera
+verano
+otoño

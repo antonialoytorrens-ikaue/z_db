@@ -1,0 +1,6 @@
+season
+trend
+winter
+spring
+summer
+autumn

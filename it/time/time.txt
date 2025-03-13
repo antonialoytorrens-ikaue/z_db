@@ -1,0 +1,6 @@
+stagione
+tendenza
+inverno
+primavera
+estate
+autunno
